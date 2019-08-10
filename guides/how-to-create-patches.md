@@ -1,5 +1,5 @@
 ---
-Title: '[Creators] How to Create Patches'
+Title: How to Create Patches
 Sort: 1
 ---
 **Valid as of:** Patch Version 2 — April 10th, 2019
@@ -14,7 +14,7 @@ Patches are built from three types of files:
  2. Asset Files for Modified or new asset files
  3. Hook Files for Dokkan code modification
 
-&nbsp; 
+  
 
 ### SQL Files for Database changes
 Changes to the database are done by adding SQL files to the patch list. SQL Files are a list of instructions that the patcher executes on the Dokkan database at game runtime.
@@ -28,7 +28,7 @@ If you are familiar with writing SQL, you are more than welcome to.
 Once you have a SQL file, add it to the **`SQL Files`** section of the Patch Builder.
 *(Currently there is a bug in which you are required to drag and drop the file to add it)*
 
-&nbsp; 
+  
 
 ### Asset Files for Modified or new asset files
 Anything under the `assets/` directory of Dokkan can be replaced or added to. The only exception is the `database.db` file in which you use the SQL Files section.
@@ -43,14 +43,14 @@ Audio Files (`*.acb` and `*.awb`) are archives for one or more ADX files. Unfort
 
 Once you are done, add everything to the **`AssetFiles`** section of the Patch Builder that is under the `assets/` folder. Do not include the `assets/` folder. If in the upload list you see that your files start with `assets/`, your patch will not work.
 
-&nbsp; 
+  
 
 ### Hook Files for Dokkan code modification
 Hook files are C++ libraries that will get loaded into the game at runtime. These libraries will be able to add, change, and remove game features.
 
 Currently,  this feature is unavailable to Creators and is in its final testing phases. Once released it will be heavily reviewed and moderated to prevent abuse.
 
-&nbsp; 
+  
 
 ### Patch Info
 To complete your patch, the following additional information is asked:
@@ -69,7 +69,7 @@ To complete your patch, the following additional information is asked:
 Items marked with '*' are currently not validated but will be used and enforced soon.
 ```
 
-&nbsp; 
+  
 
 ### Patch Building
 
@@ -79,7 +79,7 @@ Eventually, you will be able to add the patch to the website directly. This will
 
 **Currently**, the patch list is manually managed by me. However, you are welcome to post any patch to the `#patch-releases` channel in the UniDokkan Discord server.
 
-&nbsp; 
+  
 
 ### Notes
 
