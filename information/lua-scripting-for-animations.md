@@ -1,7 +1,6 @@
 ---
 Title: Lua Scripting for Animations
 Sort: 4
-ShowOnHome: true
 ---
 ### Learn Lua
 
@@ -14,7 +13,7 @@ Lua scripts for battle animations are not run live. The scripts are not executin
 
 Most of the scripts are...poorly maintained.
 
-**Variable Definitions:**
+##### **Variable Definitions:**
 ```lua
 -- The values of variables like the ones below are references to sound effects
 -- They link to sound_effect_offsets.sound_effect_id
@@ -29,6 +28,16 @@ SP_02 = 100231;
 SP_XX = XXXXXX;
 
 -- These are not hard rules. Variables can be named anything, you don't have to follow the SE_XX nomenclature they established. (and they break this themselves)
+```
+
+##### How Lua Controls the Target
+```
+setDisp(frame, 1, 0) -- hide enemy
+setDisp(frame, 1, 1) -- show enemy
+changeAnime(frame, 1, sprite_sheet_scene_id - 100) -- change enemy sprite
+setMoveKey(frame 1, x, y, z) -- move sprite to x, y, z
+setScaleKey(frame, 1, width, height) -- change sprite size
+setRotateKey(frame, 1, angle) -- change sprite rotation
 ```
 
 **Dokkan provides the following special functions that scripts can call:**
@@ -120,4 +129,3 @@ _IS_CRITICAL_
 _SPECIAL_ENERGY_COLOR_
 _SPECIAL_SKILL_LEVEL_
 ```
-

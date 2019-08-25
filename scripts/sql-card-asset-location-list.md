@@ -1,10 +1,7 @@
-/*
-Title: [SQL] Card Asset Location List
+---
+Title: '[SQL] Card Asset Location List'
 Sort: 1
-ShowOnHome: true
-*/
-
-# [SQL] Card Asset Location List
+---
 ```sql
 SELECT
 	cards.id AS "Card ID",

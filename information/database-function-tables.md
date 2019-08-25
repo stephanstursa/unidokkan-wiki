@@ -2,56 +2,84 @@
 Title: Database Function Tables
 Sort: 2
 ---
-### Causality Types
-| Causality ID | Description                   |
-|:------------:|-------------------------------|
-|       0      | isNoneRule                    |
-|       1      | isOverHpRate                  |
-|       2      | isUnderHpRate                 |
-|       3      | isOverEnergy                  |
-|       4      | isUnderEnergy                 |
-|       5      | isElapsedTurn                 |
-|       6      | isPartyRaceType               |
-|       7      | isEnemyRaceType               |
-|       8      | isOverFightingPower           |
-|       9      | isUnderFightingPower          |
-|      10      | isOverHpRateOverEnergy        |
-|      11      | isOverHpRateUnderEnergy       |
-|      12      | isUnderHpRateOverEnergy       |
-|      13      | isUnderHpRateUnderEnergy      |
-|      14      | isFirstAttack                 |
-|      15      | isOverTargetNum               |
-|      16      | isUnderTargetNum              |
-|      17      | isOverTargetHpRate            |
-|      18      | isUnderTargetHpRate           |
-|      19      | isAttackOrder                 |
-|      20      | isOverEnergyCondition         |
-|      21      | isUnderEnergyCondition        |
-|      22      | isPartyExistChara             |
-|      23      | isLinkNum                     |
-|      24      | isHitDamaged                  |
-|      25      | isTargetKill                  |
-|      26      | isOverHpRateEnableSpecial     |
-|      27      | isUnderHpRateEnableSpecial    |
-|      28      | isSlotElementType             |
-|      29      | isEnemyExistChara             |
-|      30      | isGuardSuccess                |
-|      31      | isCombinationAttack           |
-|      32      | isChangeEnergyBallColor       |
-|      33      | isBetweenHpRate               |
-|      34      | isOverTeamCategoryNum         |
-|      35      | hasAllElementBitpatternCards  |
-|      36      | isOverHpRateAndElapsedTurn    |
-|      37      | isUnderHpRateAndElapsedTurn   |
-|      38      | isTargetEnemyCondition        |
-|      39      | isTargetElementTypeBitPattern |
-|      40      | isSpecialAttack               |
-|      41      | isOverTeamUniqueCardNum       |
-|      42      | isEnergyBallGetNum            |
+#### Causality Types
+| Causality ID | Name | Description | cau_val1 | cau_val2 | cau_val3 |
+|:------------:|-------------------------------|--------------------------------------------------------|------------------------------------|---------------------|----------|
+| 0 | isNoneRule | Nothing |  |  |  |
+| 1 | isOverHpRate | HP is above percent | HP Percent |  |  |
+| 2 | isUnderHpRate | HP is below percent | HP Percent |  |  |
+| 3 | isOverEnergy | Ki is above a number | Ki Amount |  |  |
+| 4 | isUnderEnergy | Ki is below a number | Ki Amount |  |  |
+| 5 | isElapsedTurn | Battle has past turn number | Turn |  |  |
+| 6 | isPartyRaceType | Checks if entire deck has a certain link skill | Link Skill ID |  |  |
+| 7 | isEnemyRaceType | Checks if enemy has certain link skill | Link Skill ID |  |  |
+| 8 | isOverFightingPower | Checks current attack and defense is over a number | Attack | Defense |  |
+| 9 | isUnderFightingPower | Checks current attack and defense is under a number | Attack | Defense |  |
+| 10 | isOverHpRateOverEnergy | HP is above percent, Ki is above number | HP Percent | Ki Amount |  |
+| 11 | isOverHpRateUnderEnergy | HP is above percent, Ki is below number | HP Percent | Ki Amount |  |
+| 12 | isUnderHpRateOverEnergy | HP is below percent, Ki is above number | HP Percent | Ki Amount |  |
+| 13 | isUnderHpRateUnderEnergy | HP is below percent, Ki is below number | HP Percent | Ki Amount |  |
+| 14 | isFirstAttack | Card is in first slot |  |  |  |
+| 15 | isOverTargetNum | More than a number of enemies | Number of Enemies |  |  |
+| 16 | isUnderTargetNum | Less than a number of enemies | Number of Enemies |  |  |
+| 17 | isOverTargetHpRate | Enemy target HP above a percent | HP Percent |  |  |
+| 18 | isUnderTargetHpRate | Enemy target HP below a percent | HP Percent |  |  |
+| 19 | isAttackOrder | Checks card slot position | Slot (0, 1, 2) |  |  |
+| 20 | isOverEnergyCondition | Ki is above percent | Ki Percent |  |  |
+| 21 | isUnderEnergyCondition | Ki is below percent | Ki Percent |  |  |
+| 22 | isPartyExistChara | Check if character is present in deck | Card Unique Info ID |  |  |
+| 23 | isLinkNum | Check if at number of links or greater are active | Number of links |  |  |
+| 24 | isHitDamaged | Activates upon being attacked |  |  |  |
+| 25 | isTargetKill | Activates when target is killed |  |  |  |
+| 26 | isOverHpRateEnableSpecial | HP is above percent, card has enough ki to super | HP Percent |  |  |
+| 27 | isUnderHpRateEnableSpecial | HP is below percent, card has enough ki to super | HP Percent |  |  |
+| 28 | isSlotElementType | Checks if any cards on rotation are a certain element | Element Type |  |  |
+| 29 | isEnemyExistChara | Check if character is an enemy | Card Unique Info ID |  |  |
+| 30 | isGuardSuccess | Check if card is guarding |  |  |  |
+| 31 | isCombinationAttack | Activates if there are three enemy attacks |  |  |  |
+| 32 | isChangeEnergyBallColor | Checks if there is a ki of a certain type on the board | Ki Type |  |  |
+| 33 | isBetweenHpRate | Checks if card HP percent is between two numbers | HP Percent Lower | HP Percent Higher |  |
+| 34 | isOverTeamCategoryNum | Check if category card is present | 0 for deck; 1 for enemy | Category ID | Unknown |
+| 35 | hasAllElementBitpatternCards | Checks if deck has all types of an element bitset | Element Bitset |  |  |
+| 36 | isOverHpRateAndElapsedTurn | HP is above percent, battle has past turn number | HP Percent | Turn |  |
+| 37 | isUnderHpRateAndElapsedTurn | HP is below percent, battle has past turn number | HP Percent | Turn |  |
+| 38 | isTargetEnemyCondition | Enemy has required status effects | Status Effect Flags (see footnote) | Unknown |  |
+| 39 | isTargetElementTypeBitPattern | Check if enemy element matches element bitset | Element Bitset |  |  |
+| 40 | isSpecialAttack | Activates if card has used a special attack |  |  |  |
+| 41 | isOverTeamUniqueCardNum | Activates if deck has card with name | Unknown | Card Unique Info ID | Unknown |
+| 42 | isEnergyBallGetNum | Activates if card gets more then specified Ki amount | Unknown | Ki Amount |  |
+
+<br />
+
+##### Causality #38 - isTargetEnemyCondition Status Flags
+
+| Status Mask | Description |
+|:-----------:|---------------------------|
+| 1 | Unknown |
+| 2 | Unknown |
+| 4 | Unknown |
+| 8 | Unknown |
+| 16 | ATK Down |
+| 32 | DEF Down |
+| 64 | Unknown |
+| 128 | Unknown |
+| 256 | Efficacy Type 9 |
+| 512 | Efficacy Type 47 |
+| 1024 | Sealed (Efficacy Type 48) |
+| 2048 | Efficacy Type 8 |
+| 4096 | Unknown |
+| 8192 | Efficacy Type 53 |
+| 16384 | Efficacy Type 75 |
+| 32768 | Efficacy Type 94 |
+| 65536 | Efficacy Type 96 |
+| 131072 | Unknown |
+| 262144 | Unknown |
+| 524288 | Efficacy Type 100 |
+| 1048576 | Efficacy Type 101 |
 
 <br /><br />
 
-### Calc Options
+#### Calc Options
 | Calc Option 	| Description        	|
 |:-------------:|--------------------	|
 | 0           	| Calc Plus          	|
@@ -62,7 +90,7 @@ Sort: 2
 
 <br /><br />
 
-### Efficacy Types
+#### Efficacy Types
 | Efficacy Type 	| Description                                               	|
 |:---------------:	|-----------------------------------------------------------	|
 | 1             	| Change Atk Param                                          	|
@@ -154,7 +182,7 @@ Sort: 2
 
 <br /><br />
 
-### Target Types
+#### Target Types
 | Target Type 	| Description                     	|
 |:-------------:|---------------------------------	|
 | 0           	| None                            	|
@@ -176,7 +204,7 @@ Sort: 2
 
 <br /><br />
 
-### Influence Types
+#### Influence Types
 | Influence Type 	| Description 	|
 |:----------------:	|-------------	|
 | 0              	| None        	|
@@ -188,7 +216,7 @@ Sort: 2
 
 <br /><br />
 
-### Exec Timing
+#### Exec Timing
 | Exec Timing | Description         |
 |:-----------:|---------------------|
 |      1      | Start Round         |
@@ -202,3 +230,15 @@ Sort: 2
 |      9      | End Round           |
 |      10     | Unknown             |
 |      11     | End of Puzzle Phase |
+
+<br /><br />
+
+#### Effect Pack Category
+| Effect Pack Category | Animation Path |
+|----------------------|-----------------------------------|
+| 0 | comic_text/ja/%s/%s.lwf |
+| 1 | ingame/battle/effect/%s/%s.lwf |
+| 2 | ingame/sugoroku/effect/%s/%s.lwf |
+| 3 | outgame/effect/%s/%s.lwf |
+| 4 | ingame/battle/sp_effect/%s/%s.lwf |
+| 5 | ingame/battle/sp_effect/%s/%s.lwf |

@@ -1,9 +1,7 @@
-/*
+---
 Title: Getting Started with UniDokkan
 Sort: 1
-ShowOnHome: true
-*/
-
+---
 This guide is for new or returning users of the UniDokkan patching system for Dokkan Battle.
 
 **IMPORTANT:** As you go through this guide and use UniDokkan you must agree to the following things:
@@ -12,11 +10,11 @@ This guide is for new or returning users of the UniDokkan patching system for Do
  2. **Keep your Dokkan Battle account safe!** The best thing you can do is keep your account linked to Facebook. An unlinked account is the best way to lose the account forever. Don't gamble with account recovery denying your account.
  3. **You are the only one responsible for your Dokkan Battle account!** Do not use UniDokkan (or any other mod) if you refuse to accept the risk of being banned by breaking Dokkan Battle's Terms of Service. I go through great effort to make sure the patching system remains undetected, but nothing is perfect.
 
-&nbsp; 
+  
 
 ---
 
-&nbsp; 
+  
 
 ## **What is UniDokkan?**
 
@@ -26,11 +24,11 @@ We also have a great open community where all kinds of technical information is 
 
 Finally, there is the UniDokkan website where I personally host Dokkan tools, like a fully in-browser Dokkan animation player, and a Wiki where I try and keep all our information for UniDokkan and Dokkan in one place.
 
-&nbsp; 
+  
 
 ---
 
-&nbsp; 
+  
 
 ## **Getting Started**
 
@@ -45,7 +43,7 @@ Finally, there is the UniDokkan website where I personally host Dokkan tools, li
 
 You do not need to uninstall any other Dokkan Battle versions. If you have the space on your device, I recommend that you keep any other version you have.
 
-&nbsp; 
+  
 
 ### **Installation Instructions**
 
@@ -56,15 +54,15 @@ You do not need to uninstall any other Dokkan Battle versions. If you have the s
  5. Run the UniDokkan Patcher.
  6. Click the Play button in the top of the Patcher to start Dokkan.
 
-&nbsp; 
+  
 
 ### **Featured Patches**
 
- - Japanese to English Translation *by /u/marcanin3*: [Download v0.2.10](https://unidokkan.com/api/sl/patches/marcanin3/english-translation)
+ - Japanese to English Translation *by /u/marcanin3*: [Download Latest](https://unidokkan.com/api/sl/patches/marcanin3/english-translation)
  - Remove Diamond Background *by /u/Karyonix*: [Download v1.0.0](https://www.mediafire.com/file/7fp00wkfq8o78he/RemoveDiamondBG_-_v1.0.0_-_Karyonix.udpf/file)
  - Goku Black Summon Animations *by /u/KakarottoCake*: [Download v0.0.2](https://www.mediafire.com/file/bp68leqe3j78v44/Goku_Black_Summon_Animations_-_v0.0.2_-_KakarottoCake.udpf/file)
 
-&nbsp; 
+  
 
 ### **Applying Patches**
 
@@ -76,11 +74,11 @@ You do not need to uninstall any other Dokkan Battle versions. If you have the s
 
 **Video Demonstration:** https://imgur.com/a/XKGaqPU
 
-&nbsp; 
+  
 
 ---
 
-&nbsp; 
+  
 
 ## **Support, Updates, and Patches**
 

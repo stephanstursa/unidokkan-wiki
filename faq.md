@@ -6,7 +6,7 @@ Sort: 2
 Check to make sure you have enough room on your phone;<br /><br />
 
 #### **Does this work on iOS?**
-No. I do not have any Apple devices to develop with, and I do not know anyone capabable of taking over the iOS side of UniDokkan development.<br /><br />
+No. I do not have any Apple devices to develop with, and I do not know anyone capable of taking over the iOS side of UniDokkan development.<br /><br />
 
 #### **Do I have to run the patcher app each time I want to play the game with patches?**
 Yes. The patcher does not modify any game files permanently. You must start the game through the patcher to have it use the patched files.<br /><br />

@@ -32,4 +32,4 @@ If you renamed your account folder to `.com.bandainamcogames.dbzdokkan`, install
 
 After installation, you can launch the game. Eventually you will see the following screen. **Press the right button**; this will recover your account using the new folder you made.
 
-<img src="https://cdn.discordapp.com/attachments/570307541767290890/570463972541595658/Screenshot_20190424-061957.jpg" height="300">
+<img src="https://cdn.discordapp.com/attachments/570307541767290890/570463972541595658/Screenshot_20190424-061957.jpg" width="300">
