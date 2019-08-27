@@ -6,6 +6,9 @@ Sort: 999
 
 `effect_packs.id` = `349` + `cards.aura_id`
 
+Lua `setAnime(X, Y)`
+Y = 7 turns on aura
+
 <br /><br />
 
 ##### Image Resolutions
