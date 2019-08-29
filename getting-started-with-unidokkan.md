@@ -35,11 +35,10 @@ Finally, there is the UniDokkan website where I personally host Dokkan tools, li
 **First,** you must download the following to your Android device:
 
  1. **UniDokkan Dokkan APK (UD):**
-	 - [Download Japan v4.5.1](https://unidokkan.com/api/sl/apk/jp)
-	 - *Global coming soon...*
+	 - [Download Japan v4.5.2](https://unidokkan.com/api/sl/apk/jp)
+	 - [Download Japan v4.4.1](https://unidokkan.com/api/sl/apk/glb)
  2. **UniDokkan Patcher:** 
-	 - [Download Patcher v0.1.3 (Google Play Store)](https://play.google.com/apps/testing/com.unidokkan.patcher)
-	 - *Alternative installation method coming soon...*
+	 - [Download Patcher v0.1.13](https://unidokkan.com/api/sl/patcher)
 
 You do not need to uninstall any other Dokkan Battle versions. If you have the space on your device, I recommend that you keep any other version you have.
 
