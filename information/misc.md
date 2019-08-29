@@ -26,7 +26,7 @@ Y = 7 turns on aura
 
 <br /><br />
 
-##### Character Animation Schene Indexes
+##### Character Animation Scene Indexes
 
 | Animation Index | Scene Name |
 |-----------------|----------------------|
