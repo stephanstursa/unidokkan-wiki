@@ -36,7 +36,7 @@ Finally, there is the UniDokkan website where I personally host Dokkan tools, li
 
  1. **UniDokkan Dokkan APK (UD):**
 	 - [Download Japan v4.5.2](https://unidokkan.com/api/sl/apk/jp)
-	 - [Download Japan v4.4.1](https://unidokkan.com/api/sl/apk/glb)
+	 - [Download Global v4.4.1](https://unidokkan.com/api/sl/apk/glb)
  2. **UniDokkan Patcher:** 
 	 - [Download Patcher v0.1.13](https://unidokkan.com/api/sl/patcher)
 
