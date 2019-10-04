@@ -107,6 +107,17 @@ stopBgScroll()
 stopSe()
 stopSeQueueId()
 stopVoice()
+
+ATTR_ENABLED = 0x01 -- ?
+ATTR_LOADED = 0x02 -- ?
+ATTR_PLAYING = 0x04 -- ?
+ATTR_FINISHED = 0x08
+ATTR_HASLIFE = 0x10
+ATTR_UNKNOWN1 = 0x20
+ATTR_UNKNOWN2 = 0x40 -- scale?
+ATTR_BACKGROUND = 0x80
+ATTR_UNKNOWN2 = 0x100
+ATTR_REVERSE = 0x1000
 ```
 
 **Dokkan provides the following global variables that scripts can access:**
