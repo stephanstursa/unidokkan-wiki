@@ -224,8 +224,8 @@ Sort: 2
 |      3      | Your Turn           |
 |      4      | Unknown             |
 |      5      | Enemy Turn          |
-|      6      | Unknown             |
-|      7      | Unknown             |
+|      6      | Before Player Hit   |
+|      7      | After Player Hit    |
 |      8      | Battle Result Phase |
 |      9      | End Round           |
 |      10     | Unknown             |
