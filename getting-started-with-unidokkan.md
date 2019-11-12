@@ -46,12 +46,13 @@ You do not need to uninstall any other Dokkan Battle versions. If you have the s
 
 ### **Installation Instructions**
 
- 1. Download and install the above 2 files to your device.
- 2. Run the game directly.
- 3. Let the game perform the initial data download.
- 4. Transfer your Dokkan account (or make a new one), and get completely into the game.
- 5. Run the UniDokkan Patcher.
- 6. Click the Play button in the top of the Patcher to start Dokkan.
+ 1. Download and install the above UniDokkan APK (picking either Japan or Global or both)
+ 2. Download and install the UniDokkan Patcher.
+ 3. Run the UniDokkan game (not the patcher) first. 
+ 4. Let the game perform the initial data download.
+ 5. Transfer your Dokkan account (or make a new one), and get completely into the game.
+ 6. Run the UniDokkan Patcher.
+ 7. Click the Play button in the top of the Patcher to start Dokkan.
 
   
 
