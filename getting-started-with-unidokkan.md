@@ -42,6 +42,13 @@ Finally, there is the UniDokkan website where I personally host Dokkan tools, li
 
 You do not need to uninstall any other Dokkan Battle versions. If you have the space on your device, I recommend that you keep any other version you have.
 
+##### **Emulator Warning:**
+*Your emulator must be using Android version 5 or higher. Please follow your emulator's instructions.*
+
+  
+
+---
+
   
 
 ### **Installation Instructions**
