@@ -68,8 +68,6 @@ You do not need to uninstall any other Dokkan Battle versions. If you have the s
 
  - Japanese to English Translation *by /u/marcanin3*: [Download Latest](https://unidokkan.com/api/sl/patches/marcanin3/english-translation)
  - Remove Diamond Background *by /u/Karyonix*: [Download v1.0.0](https://www.mediafire.com/file/7fp00wkfq8o78he/RemoveDiamondBG_-_v1.0.0_-_Karyonix.udpf/file)
- - Goku Black Summon Animations *by /u/KakarottoCake*: [Download v0.0.2](https://www.mediafire.com/file/bp68leqe3j78v44/Goku_Black_Summon_Animations_-_v0.0.2_-_KakarottoCake.udpf/file)
-
   
 
 ### **Applying Patches**
