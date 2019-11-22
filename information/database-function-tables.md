@@ -222,7 +222,7 @@ Sort: 2
 |      1      | Start Round         |
 |      2      | Link Skills         |
 |      3      | Your Turn           |
-|      4      | Unknown             |
+|      4      | On Player Super     |
 |      5      | Enemy Turn          |
 |      6      | Before Player Hit   |
 |      7      | After Player Hit    |
