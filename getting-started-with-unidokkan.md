@@ -64,11 +64,7 @@ You do not need to uninstall any other Dokkan Battle versions. If you have the s
 
   
 
-### **Featured Patches**
-
- - Japanese to English Translation *by /u/marcanin3*: [Download Latest](https://unidokkan.com/api/sl/patches/marcanin3/english-translation)
- - Remove Diamond Background *by /u/Karyonix*: [Download v1.0.0](https://www.mediafire.com/file/7fp00wkfq8o78he/RemoveDiamondBG_-_v1.0.0_-_Karyonix.udpf/file)
-  
+### **[Featured Patches](https://unidokkan.com/members/patches)**
 
 ### **Applying Patches**
 
