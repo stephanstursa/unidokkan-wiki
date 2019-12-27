@@ -62,9 +62,19 @@ You do not need to uninstall any other Dokkan Battle versions. If you have the s
  6. Run the UniDokkan Patcher.
  7. Click the Play button in the top of the Patcher to start Dokkan.
 
+    
+
+---
+
   
 
-### **[Featured Patches](https://unidokkan.com/members/patches)**
+
+### **[List of Patches Here](https://unidokkan.com/members/patches)**
+  
+
+---
+
+  
 
 ### **Applying Patches**
 
@@ -74,7 +84,7 @@ You do not need to uninstall any other Dokkan Battle versions. If you have the s
  4. In the Enable Patches list, click each patch to enable it.
  5. Click the Play button in the top of the Patcher to start Dokkan.
 
-**Video Demonstration:** https://imgur.com/a/XKGaqPU
+**Video Demonstration:** [https://imgur.com/a/XKGaqPU](https://imgur.com/a/XKGaqPU)
 
   
 
