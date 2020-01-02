@@ -229,286 +229,275 @@ By Cake
 45 =    Super Saiyan 2
 
 --------------------------
-## **Link Skill id's**
+## **Link Skill id's/Effects**
 
-1 = 	Best Buddies
+1 = 	Best Buddies/Ki +1
 
-2 = 	Courage
+2 = 	Courage/Ki +1
 
-3 = 	The Students
+3 = 	The Students/DEF +1000
 
-4 = 	The Innocents
+4 = 	The Innocents/ATK +10%
 
-5 = 	Crane School
+5 = 	Crane School/ATK +500
 
-6 = 	Demon
+6 = 	Demon/Ki +1
 
-7 = 	Demon Duo
+7 = 	Demon Duo/ATK +20%
 
+8 = 	Brainiacs/ATK & DEF +10%
 
-8 = 	Brainiacs
+9 = 	Golden Warrior/Ki +1, enemy DEF -2000
 
-9 = 	Golden Warrior
+10 = 	Money Money Money/Ki +1
 
-10 = 	Money Money Money
+11 = 	Evil Autocrats/Ki +1
 
-11 = 	Evil Autocrats
+12 = 	Flee/Ki +1 when HP is 30% or below
 
-12 = 	Flee
+13 = 	Telekinesis/Enemy DEF -10%
 
+14 = 	More Than Meets the Eye/ATK +300
 
-13 = 	Telekinesis
+15 = 	Hero/DEF + 20%
 
-14 = 	More Than Meets the Eye
+16 = 	Supreme Warrior/Ki +1
 
-15 = 	Hero
+17 = 	Gentleman/Ki +2
 
-16 = 	Supreme Warrior
+18 = 	Brutal Beatdown/ATK +10%
 
-17 = 	Gentleman
+19 = 	Messenger from the Future/ATK +500
 
-18 = 	Brutal Beatdown
+20 = 	World Tournament Reborn/ATK +300
 
-19 = 	Messenger from the Future
+21 = 	New/ATK +200
 
-20 = 	World Tournament Reborn
+22 = 	Saiyan Warrior Race/ATK +700
 
-21 = 	New
+23 = 	All in the Family/DEF +15%
 
+24 = 	Master and Pupil/Ki +1
 
-22 = 	Saiyan Warrior Race
+25 = 	Respect/ATK +500
 
-23 = 	All in the Family
+26 = 	Prodigies/ATK +10%
 
-24 = 	Master and Pupil
+27 = 	World Tournament Champion/Ki +1
 
-25 = 	Respect
+28 = 	Metamorphosis/Recover 5% HP
 
-26 = 	Prodigies
+29 = 	Super Saiyan/ATK +10%
 
-27 = 	World Tournament Champion
+30 = 	Experienced Fighters/ATK +10%
 
-28 = 	Metamorphosis
+31 = 	Twin Terrors/Ki +2
 
-29 = 	Super Saiyan
+32 = 	Coward/Ki +1
 
-30 = 	Experienced Fighters
+33 = 	Attack of the Clones/Ki +1
 
-31 = 	Twin Terrors
+34 = 	The Saiyan Lineage/Ki +1
 
-32 = 	Coward
+35 = 	Android Assault/DEF +1000
 
-33 = 	Attack of the Clones
+36 = 	Turtle School/ATK +500, DEF+500
 
-34 = 	The Saiyan Lineage
+37 = 	Rival Duo/ATK +10%, attacked enemy's DEF -15%
 
-35 = 	Android Assault
+38 = 	Mechanical Menaces/Ki +1
 
-36 = 	Turtle School
+39 = 	Cold Judgment/DEF +20%
 
-37 = 	Rival Duo
+40 = 	Royal Lineage/Ki +1
 
-38 = 	Mechanical Menaces
+41 = 	The Ginyu Force/ATK + 25%
 
-39 = 	Cold Judgment
+42 = 	Infighter/ATK +10%, attacked enemy's DEF -10%
 
-40 = 	Royal Lineage
+43 = 	Frieza's Minion/ATK +300
 
-41 = 	The Ginyu Force
+44 = 	Champion's Strength/Ki +1
 
-42 = 	Infighter
+45 = 	Z Fighters/ATK +15%
 
-43 = 	Frieza's Minion
+46 = 	Dodon Ray/ATK +2000 when Super Attack is launched
 
-44 = 	Champion's Strength
+47 = 	Kamehameha/ATK +2500 when Super Attack is launched
 
-45 = 	Z Fighters
+48 = 	Namekians/Recover 5% HP
 
-46 = 	Dodon Ray
+49 = 	Berserker/ATK +20% when HP is 50% or below
 
+50 = 	Big Bad Bosses/ATK & DEF +25% when HP is 80% or below
 
-47 = 	Kamehameha
+51 = 	Frieza's Army/DEF +1000
 
-48 = 	Namekians
+52 = 	Tough as Nails/DEF +1500
 
-49 = 	Berserker
+53 = 	Speedy Retribution/ATK +300
 
-50 = 	Big Bad Bosses
+54 = 	Tag Team of Terror/ATK +500
 
-51 = 	Frieza's Army
+55 = 	RR Army/ATK +300
 
-52 = 	Tough as Nails
+56 = 	Gaze of Respect/Ki +2
 
-53 = 	Speedy Retribution
+57 = 	Bombardment/ATK +15%
 
+58 = 	Over 9000/ATK +10%
 
-54 = 	Tag Team of Terror
+59 = 	Universe’s Most Malevolent/ATK +15%
 
-55 = 	RR Army
+60 = 	Shocking Speed/Ki +2
 
-56 = 	Gaze of Respect
+61 = 	Family Ties/Ki +2
 
-57 = 	Bombardment
+62 = 	Team Bardock/Ki +1
 
-58 = 	Over 9000
+63 = 	Saiyan Pride/ATK +15%
 
-59 = 	Universe’s Most Malevolent
+64 = 	Battlefield Diva/Ki +2
 
+65 = 	Revival/Ki +2
 
-60 = 	Shocking Speed
+66 = 	Dismal Future/Ki +1
 
-61 = 	Family Ties
+67 = 	Organic Upgrade/Ki +2
 
-62 = 	Team Bardock
+68 = 	Resurrection 'F'/ATK +700
 
-63 = 	Saiyan Pride
+69 = 	Patrol/Ki +2
 
-64 = 	Battlefield Diva
+70 = 	Warrior Gods/ATK +10%
 
-65 = 	Revival
+71 = 	Super-God Combat/ATK +15%
 
-66 = 	Dismal Future
+72 = 	New Frieza Army/ATK +1000, DEF +1000
 
-67 = 	Organic Upgrade
+73 = 	Loyalty/Ki +1
 
-68 = 	Resurrection 'F'
+74 = 	Unbreakable Bond/Ki +2
 
-69 = 	Patrol
+75 = 	Galactic Visitor/Ki +1
 
-70 = 	Warrior Gods
+76 = 	Master of Magic/ATK +15%
 
-71 = 	Super-God Combat
+77 = 	Majin Resurrection Plan/Ki +2
 
-72 = 	New Frieza Army
+78 = 	God of Destruction/ATK +1000
 
+79 = 	Connoisseur/Recover 5% HP
 
-73 = 	Loyalty
+80 = 	Godly Power/ATK +15%
 
-74 = 	Unbreakable Bond
+81 = 	Energy Absorption/Ki +2
 
-75 = 	Galactic Visitor
+82 = 	Budding Warrior/ATK +10%
 
-76 = 	Master of Magic
+83 = 	Majin/ATK & DEF +10%
 
-77 = 	Majin Resurrection Plan
+84 = 	Strength in Unity/Ki +1
 
+85 = 	Strongest Clan in Space/Ki +2
 
-78 = 	God of Destruction
+86 = 	Thirst for Conquest/ATK +15%
 
-79 = 	Connoisseur
+87 = 	The Hera Clan/Ki +2
 
-80 = 	Godly Power
+88 = 	Galactic Warriors/ATK +20%
 
-81 = 	Energy Absorption
+89 = 	Over in a Flash/Ki +3
 
-82 = 	Budding Warrior
+90 = 	The Incredible Adventure/Ki +2
 
-83 = 	Majin
+91 = 	Coora's Underling/Ki +1
 
-84 = 	Strength in Unity
+92 = 	Coora's Armored Squad/ATK +25%
 
+93 = 	Hero of Justice/ATK +25%
 
-85 = 	Strongest Clan in Space
-86 = 	Thirst for Conquest
+94 = 	Signature Pose/Ki +2
 
-87 = 	The Hera Clan
+95 = 	GT/Ki +2
 
-88 = 	Galactic Warriors
+96 = 	Infinite Regeneration/Recover 3% HP
 
-89 = 	Over in a Flash
+97 = 	Prepared for Battle/Ki +2
 
-90 = 	The Incredible Adventure
+98 = 	Destroyer of the Universe/ATK +25%
 
+99 = 	Twin Fighters from Space/Ki +1
 
-91 = 	Coora's Underling
+100 = 	Team Turles/Ki +1
 
-92 = 	Coora's Armored Squad
+101 = 	Fortuneteller Baba’s Fighter/Ki +2
 
-93 = 	Hero of Justice
+102 = 	Guidance of the Dragon Balls/ATK +20%
 
-94 = 	Signature Pose
+103 = 	Power Bestowed by God/ATK +2500 when Super Attack is launched
 
-95 = 	GT
+104 = 	Hardened Grudge/Ki +1
 
-96 = 	Infinite Regeneration
+105 = 	Auto Regeneration/Recover 3% HP
 
-97 = 	Prepared for Battle
+106 = 	Fusion/Ki +2
 
-98 = 	Destroyer of the Universe
-99 = 	Twin Fighters from Space
+107 = 	Deficit Boost/ATK +15%
 
-100 = 	Team Turles
+108 = 	Ultimate Lifeform/Ki +2
 
-101 = 	Fortuneteller Baba’s Fighter
+109 = 	Fierce Battle/ATK +15%
 
-102 = 	Guidance of the Dragon Balls
+110 = 	Infinite Energy/Ki +2
 
-103 = 	Power Bestowed by God
+111 = 	Formidable Enemy/ATK +10%
 
-104 = 	Hardened Grudge
+112 = 	Fused Fighter/Ki +2
 
-105 = 	Auto Regeneration
+113 = 	Fusion Failure/Recover 3% HP
 
-106 = 	Fusion
+114 = 	Scientist/Ki +2
 
-107 = 	Deficit Boost
+115 = 	Hatred of Saiyans/Ki +2
 
-108 = 	Ultimate Lifeform
+116 = 	Limit-Breaking Form/ATK +2000 when Super Attack is launched
 
-109 = 	Fierce Battle
+117 = 	The First Awakened/ATK +25%
 
-110 = 	Infinite Energy
+118 = 	Shattering the Limit/Ki +2
 
-111 = 	Formidable Enemy
+119 = 	Nightmare/ATK +10%
 
+120 = 	Fear and Faith/Ki +2
 
-112 = 	Fused Fighter
+121 = 	Xenoverse/ATK +20%
 
-113 = 	Fusion Failure
+122 = 	Super Strike/ATK +20%
 
-114 = 	Scientist
+123 = 	Transform/Ki +2
 
-115 = 	Hatred of Saiyans
+124 = 	Saiyan Roar/ATK +25%
 
-116 = 	Limit-Breaking Form
+125 = 	Legendary Power/ATK +5000 when Super Attack is launched
 
-117 = 	The First Awakened
+126 = 	Warriors of Universe 6/Ki +2
 
-118 = 	Shattering the Limit
+127 = 	Shadow Dragons/ATK +15%
 
-119 = 	Nightmare
+128 = 	Penguin Village Adventure/ATK +15%
 
-120 = 	Fear and Faith
+129 = 	Otherworld Warriors/ATK +20%
 
-121 = 	Xenoverse
+130 = 	Tournament of Power/Ki +3
 
-122 = 	Super Strike
+1000 = 	Blazing Battle/Disables enemy's Rampage, and ATK +15%
 
-123 = 	Transform
+1001 = 	Soul vs Soul/Weakens Regeneration and Ki +1
 
-124 = 	Saiyan Roar
+1002 = 	Golden Z-Fighter/Ki +2
 
-125 = 	Legendary Power
+1003 = 	Supreme Power/Activate Penetration, ATK & DEF + 1000
 
-126 = 	Warriors of Universe 6 
-
-127 = 	Shadow Dragons
-
-
-128 = 	Penguin Village Adventure
-
-
-129 = 	Otherworld Warriors
-130 = 	Tournament of Power
-
-
-
-1000 = 	Blazing Battle
-
-1001 = 	Soul vs Soul
-
-1002 = 	Golden Z-Fighter
-
-1003 = 	Supreme Power
-
-1004 = 	The Wall Standing Tall
+1004 = 	The Wall Standing Tall/Foils enemy's "True Power" and boosts ATK 
+by 15%
