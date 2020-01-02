@@ -15,22 +15,54 @@ in order to have a custom lvl like 420 all you have to do is add a new row in ca
 * 2 = **melee based super**
 
 
-## **Element Types**
+#### **Element Types**
 Element id 
-0-AGL
-1-TEQ
-2-INT
-3-STR
-4-PHY
-----------------
-10-SUPER AGL
-11-SUPER TEQ
-12-SUPER INT
-13-SUPER STR
-14-SUPER PHY
-----------------
-20-EXTREME AGL
-21-EXTREME TEQ
-22-EXTREME INT
-23-EXTREME STR
-24-EXTREME PHY
+
+* 
+0 = AGL
+
+* 
+1 =  TEQ
+
+* 
+2 = INT
+
+* 
+3 = STR
+
+* 
+4 = PHY
+
+#### **Super Type**
+
+* 
+10 = SUPER AGL
+
+* 
+11 = SUPER TEQ
+
+* 
+12 = SUPER INT
+
+* 
+13 = SUPER STR
+
+* 
+14 = SUPER PHY
+
+#### **Extreme Type**
+
+* 
+20 = EXTREME AGL
+
+* 
+21 = EXTREME TEQ
+
+* 
+22 = EXTREME INT
+
+* 
+23 = EXTREME STR
+
+* 
+24 = EXTREME PHY
