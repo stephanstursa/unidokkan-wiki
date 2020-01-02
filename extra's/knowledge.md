@@ -6,6 +6,8 @@ Description: work in progress. Come back later
 
 in order to have a custom lvl like 420 all you have to do is add a new row in card_exps set lvl to desired lvl and set exp_type (to a random number above 999 or 4 trillion or a negative number) set exp_total to any number below 0 go to cards and set   exp_type to the number you set it to in card_exps table and set training_exp to the number you set it to in card_exps.exp_total and set lvl_max to the lvl amount you set it to in card_exps
 
+By BunRum
+-------------------
 ------------------------
 ## **Super Attack Types**
 
@@ -14,6 +16,7 @@ in order to have a custom lvl like 420 all you have to do is add a new row in ca
 * 1 = **Ki based Super**
 
 * 2 = **melee based super**
+
 
 ------------------------
 ## **Element Types**
@@ -131,7 +134,7 @@ Eff4_value3 = 0
 
 
 By Cake
-
+-------------------
 ------------------------
 ## **Category id's**
 
@@ -223,5 +226,4 @@ By Cake
 
 44 =    Otherworld Warriors
 
-45 =    Super Saiyan 2 
-
+45 =    Super Saiyan 2
