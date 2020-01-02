@@ -131,3 +131,97 @@ Eff4_value3 = 0
 
 
 By Cake
+
+------------------------
+## **Category id's**
+
+1 = 	Fusion
+
+2 = 	Shadow Dragon Saga
+
+3 = 	World Tournament
+
+4 = 	Peppy Gals
+
+5 = 	Hybrid Saiyans
+
+6 = 	Universe Survival Saga
+
+7 = 	Resurrected Warriors
+
+8 = 	Realm of Gods
+
+9 = 	Majin Buu Saga
+
+10 = 	Potara
+
+11 = 	Low-Class Warrior
+
+12 = 	Super Saiyan 3
+
+13 = 	Giant Form
+
+14 = 	Planet Namek Saga
+
+15 = 	Ginyu Force
+
+16 = 	Movie Bosses
+
+17 = 	Pure Saiyans
+
+18 = 	Namekians
+
+19 = 	Future Saga
+
+20 = 	Full Power
+
+21 = 	Androids
+
+22 = 	Representatives of Universe 7
+
+23 = 	Transformation Boost
+
+24 = 	Wicked Bloodline
+
+25 = 	Dragon Ball Seekers
+
+26 = 	Time Travelers
+
+27 = 	Universe 6
+
+28 = 	Joined Forces
+
+29 = 	Movie Heroes
+
+30 = 	Goku's Family
+
+31 = 	Vegeta's Family
+
+32 = 	Artificial Life Forms
+
+33 = 	Youth
+
+34 = 	DB Saga
+
+35 = 	Siblings' Bond
+
+36 = 	Super Saiyans
+
+37 = 	Worthy Rivals
+
+38 = 	Androids/Cell Saga
+
+39 = 	Kamehameha
+
+40 = 	Bond of Master and Disciple
+
+41 =    Conquest of Terror
+
+42 =    DB Heroes 
+
+43 =    Target: Goku
+
+44 =    Otherworld Warriors
+
+45 =    Super Saiyan 2 
+
