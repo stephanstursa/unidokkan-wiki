@@ -232,137 +232,283 @@ By Cake
 ## **Link Skill id's**
 
 1 = 	Best Buddies
+
 2 = 	Courage
+
 3 = 	The Students
+
 4 = 	The Innocents
+
 5 = 	Crane School
+
 6 = 	Demon
+
 7 = 	Demon Duo
+
+
 8 = 	Brainiacs
+
 9 = 	Golden Warrior
+
 10 = 	Money Money Money
+
 11 = 	Evil Autocrats
+
 12 = 	Flee
+
+
 13 = 	Telekinesis
+
 14 = 	More Than Meets the Eye
+
 15 = 	Hero
+
 16 = 	Supreme Warrior
+
 17 = 	Gentleman
+
 18 = 	Brutal Beatdown
+
 19 = 	Messenger from the Future
+
 20 = 	World Tournament Reborn
+
 21 = 	New
+
+
 22 = 	Saiyan Warrior Race
+
 23 = 	All in the Family
+
 24 = 	Master and Pupil
+
 25 = 	Respect
+
 26 = 	Prodigies
+
 27 = 	World Tournament Champion
+
 28 = 	Metamorphosis
+
 29 = 	Super Saiyan
+
 30 = 	Experienced Fighters
+
 31 = 	Twin Terrors
+
 32 = 	Coward
+
 33 = 	Attack of the Clones
+
 34 = 	The Saiyan Lineage
+
 35 = 	Android Assault
+
 36 = 	Turtle School
+
 37 = 	Rival Duo
+
 38 = 	Mechanical Menaces
+
 39 = 	Cold Judgment
+
 40 = 	Royal Lineage
+
 41 = 	The Ginyu Force
+
 42 = 	Infighter
+
 43 = 	Frieza's Minion
+
 44 = 	Champion's Strength
+
 45 = 	Z Fighters
+
 46 = 	Dodon Ray
+
+
 47 = 	Kamehameha
+
 48 = 	Namekians
+
 49 = 	Berserker
+
 50 = 	Big Bad Bosses
+
 51 = 	Frieza's Army
+
 52 = 	Tough as Nails
+
 53 = 	Speedy Retribution
+
+
 54 = 	Tag Team of Terror
+
 55 = 	RR Army
+
 56 = 	Gaze of Respect
+
 57 = 	Bombardment
+
 58 = 	Over 9000
+
 59 = 	Universe’s Most Malevolent
+
+
 60 = 	Shocking Speed
+
 61 = 	Family Ties
+
 62 = 	Team Bardock
+
 63 = 	Saiyan Pride
+
 64 = 	Battlefield Diva
+
 65 = 	Revival
+
 66 = 	Dismal Future
+
 67 = 	Organic Upgrade
+
 68 = 	Resurrection 'F'
+
 69 = 	Patrol
+
 70 = 	Warrior Gods
+
 71 = 	Super-God Combat
+
 72 = 	New Frieza Army
+
+
 73 = 	Loyalty
+
 74 = 	Unbreakable Bond
+
 75 = 	Galactic Visitor
+
 76 = 	Master of Magic
+
 77 = 	Majin Resurrection Plan
+
+
 78 = 	God of Destruction
+
 79 = 	Connoisseur
+
 80 = 	Godly Power
+
 81 = 	Energy Absorption
+
 82 = 	Budding Warrior
+
 83 = 	Majin
+
 84 = 	Strength in Unity
+
+
 85 = 	Strongest Clan in Space
 86 = 	Thirst for Conquest
+
 87 = 	The Hera Clan
+
 88 = 	Galactic Warriors
+
 89 = 	Over in a Flash
+
 90 = 	The Incredible Adventure
+
+
 91 = 	Coora's Underling
+
 92 = 	Coora's Armored Squad
+
 93 = 	Hero of Justice
+
 94 = 	Signature Pose
+
 95 = 	GT
+
 96 = 	Infinite Regeneration
+
 97 = 	Prepared for Battle
+
 98 = 	Destroyer of the Universe
 99 = 	Twin Fighters from Space
+
 100 = 	Team Turles
+
 101 = 	Fortuneteller Baba’s Fighter
+
 102 = 	Guidance of the Dragon Balls
+
 103 = 	Power Bestowed by God
+
 104 = 	Hardened Grudge
+
 105 = 	Auto Regeneration
+
 106 = 	Fusion
+
 107 = 	Deficit Boost
+
 108 = 	Ultimate Lifeform
+
 109 = 	Fierce Battle
+
 110 = 	Infinite Energy
+
 111 = 	Formidable Enemy
+
+
 112 = 	Fused Fighter
+
 113 = 	Fusion Failure
+
 114 = 	Scientist
+
 115 = 	Hatred of Saiyans
+
 116 = 	Limit-Breaking Form
+
 117 = 	The First Awakened
+
 118 = 	Shattering the Limit
+
 119 = 	Nightmare
+
 120 = 	Fear and Faith
+
 121 = 	Xenoverse
+
 122 = 	Super Strike
+
 123 = 	Transform
+
 124 = 	Saiyan Roar
+
 125 = 	Legendary Power
+
 126 = 	Warriors of Universe 6 
+
 127 = 	Shadow Dragons
+
+
 128 = 	Penguin Village Adventure
+
+
 129 = 	Otherworld Warriors
 130 = 	Tournament of Power
+
+
+
 1000 = 	Blazing Battle
+
 1001 = 	Soul vs Soul
+
 1002 = 	Golden Z-Fighter
+
 1003 = 	Supreme Power
+
 1004 = 	The Wall Standing Tall
