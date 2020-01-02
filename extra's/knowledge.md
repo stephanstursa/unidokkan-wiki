@@ -73,6 +73,7 @@ Element id
 ------------------------
 ## **Leader Skills**
 
+
 Is your dual leaderskill being dumb and doubling the effects? I'll teach you the EPIC way to do it
 
 For Category + category:
