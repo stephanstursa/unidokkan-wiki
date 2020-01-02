@@ -88,7 +88,7 @@ This one will be easy for you PG users since most of the work is done for you
 **Efficacy_type4** = 5
 
 Go to sub_target_types
-In the column **target value** type in your category ID and pick a random one that fits that category ID (Pro tip, if it doesn't work, choose another one with the same category ID. It might work) and copy the **sub_target_type_set** of it into **sub_target_type_set1** and **sub_target_type_set2**
+In the column **target_value** type in your category ID and pick a random one that fits that category ID (Pro tip, if it doesn't work, choose another one with the same category ID. It might work) and copy the **sub_target_type_set** of it into **sub_target_type_set1** and **sub_target_type_set2**
 Grab another random (not the same) one and copy that **sub_target_type_set** ID into **sub_target_type_set3** and **sub_target_type_set4**
 
 (The following steps are if you have not used PG to make your leaderskill)
