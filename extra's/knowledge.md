@@ -1,5 +1,5 @@
 ---
-Title: W.I.P Come back later
+Title: Knowledge
 Description: work in progress. Come back later
 ---
 ## **Custom Level**
@@ -16,7 +16,7 @@ in order to have a custom lvl like 420 all you have to do is add a new row in ca
 * 2 = **melee based super**
 
 ------------------------
-#### **Element Types**
+## **Element Types**
 Element id 
 
 * 
