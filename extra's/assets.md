@@ -12,6 +12,7 @@ Note: for global compatibility just copy whatever is in the folder and put it fo
 By GhostWaves
 
 __________________________
+## **Templates**
 
 Cutin Template: 
 
