@@ -76,11 +76,13 @@ Element id
 ------------------------
 ## **Leader Skills**
 
+##### **Sub Target Types** #####
 
-Is your dual leaderskill being dumb and doubling the effects? I'll teach you the EPIC way to do it
+To create custom leader skills of category + category first you will need to go `sub_target_type_sets` and create 2 rows there, give them any id you want, then go to `sub_target_types` and create 3 rows with the first 2 having the **same set id as one of the first row created earlier** one of those will have as **target value type 1** and target value will be the category id of the primary leader skil, the othe will have **target value type 2** and the target value will be the category id of the secondary part of the leader skill , now, for the third row as the sub target set id you will set the id of the **second row you created earlier** and use **target value type 1** and for the target value it will be once again the category id of the secondary part of the leader skill
 
-For Category + category:
-This one will be easy for you PG users since most of the work is done for you
+Now go back to your leader skill and set the sub target types set id's 1 and 2 as the first row you created in `sub_target_type_sets` and for the 3rd and 4th set id set it as the second row previously created in `sub_target_type_sets`
+
+##### **Leader Skill Efficay** #####
 
 **Efficacy_type1** = 104
 
@@ -90,9 +92,6 @@ This one will be easy for you PG users since most of the work is done for you
 
 **Efficacy_type4** = 5
 
-Go to sub_target_types
-In the column **target_value** type in your category ID and pick a random one that fits that category ID (Pro tip, if it doesn't work, choose another one with the same category ID. It might work) and copy the **sub_target_type_set** of it into **sub_target_type_set1** and **sub_target_type_set2**
-Grab another random (not the same) one and copy that **sub_target_type_set** ID into **sub_target_type_set3** and **sub_target_type_set4**
 
 (The following steps are if you have not used PG to make your leaderskill)
 
@@ -133,7 +132,7 @@ Eff4_value2 = 0
 Eff4_value3 = 0
 
 
-By Cake
+By Cake (Edited and fixed by Renacabeza26)
 
 ------------------------
 ## **Category id's**
