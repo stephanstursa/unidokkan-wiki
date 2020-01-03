@@ -76,13 +76,13 @@ Element id
 ------------------------
 ## **Leader Skills**
 
-##### **Sub Target Types**
+#### **Sub Target Types**
 
 To create custom leader skills of category + category first you will need to go `sub_target_type_sets` and create 2 rows there, give them any id you want, then go to `sub_target_types` and create 3 rows with the first 2 having the **same set id as one of the first row created earlier** one of those will have as **target value type 1** and target value will be the category id of the primary leader skil, the othe will have **target value type 2** and the target value will be the category id of the secondary part of the leader skill , now, for the third row as the sub target set id you will set the id of the **second row you created earlier** and use **target value type 1** and for the target value it will be once again the category id of the secondary part of the leader skill
 
 Now go back to your leader skill and set the sub target types set id's 1 and 2 as the first row you created in `sub_target_type_sets` and for the 3rd and 4th set id set it as the second row previously created in `sub_target_type_sets`
 
-##### **Leader Skill Efficacy**
+#### **Leader Skill Efficacy**
 
 **Efficacy_type1** = 104
 
